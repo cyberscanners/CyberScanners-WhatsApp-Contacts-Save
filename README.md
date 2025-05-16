@@ -10,4 +10,4 @@ $ bash Contacts.sh
 
 # Contact file save.
 
-$ bash bash Contacts.sh
+$ bash Contacts.sh
